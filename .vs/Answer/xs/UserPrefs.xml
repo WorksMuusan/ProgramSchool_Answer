@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{02929C03-B549-4985-88AD-00EC57BB4EAA}|Default">
+  <MonoDevelop.Ide.ItemProperties.L-001__BasicCalendar FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="L-001_BasicCalendar/Program.cs">
+    <Files>
+      <File FileName="L-001_BasicCalendar/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Answer" expanded="True">
+            <Node name="L-001_BasicCalendar" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
