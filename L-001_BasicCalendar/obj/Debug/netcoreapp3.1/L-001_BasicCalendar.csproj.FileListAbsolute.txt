@@ -1,0 +1,12 @@
+/Users/takahiro_biz/Documents/works/000_自社事業/004_School/Answer/L-001_BasicCalendar/bin/Debug/netcoreapp3.1/L-001_BasicCalendar.deps.json
+/Users/takahiro_biz/Documents/works/000_自社事業/004_School/Answer/L-001_BasicCalendar/bin/Debug/netcoreapp3.1/L-001_BasicCalendar.runtimeconfig.json
+/Users/takahiro_biz/Documents/works/000_自社事業/004_School/Answer/L-001_BasicCalendar/bin/Debug/netcoreapp3.1/L-001_BasicCalendar.runtimeconfig.dev.json
+/Users/takahiro_biz/Documents/works/000_自社事業/004_School/Answer/L-001_BasicCalendar/bin/Debug/netcoreapp3.1/L-001_BasicCalendar.dll
+/Users/takahiro_biz/Documents/works/000_自社事業/004_School/Answer/L-001_BasicCalendar/bin/Debug/netcoreapp3.1/L-001_BasicCalendar.pdb
+/Users/takahiro_biz/Documents/works/000_自社事業/004_School/Answer/L-001_BasicCalendar/obj/Debug/netcoreapp3.1/L-001_BasicCalendar.csprojAssemblyReference.cache
+/Users/takahiro_biz/Documents/works/000_自社事業/004_School/Answer/L-001_BasicCalendar/obj/Debug/netcoreapp3.1/L-001_BasicCalendar.AssemblyInfoInputs.cache
+/Users/takahiro_biz/Documents/works/000_自社事業/004_School/Answer/L-001_BasicCalendar/obj/Debug/netcoreapp3.1/L-001_BasicCalendar.AssemblyInfo.cs
+/Users/takahiro_biz/Documents/works/000_自社事業/004_School/Answer/L-001_BasicCalendar/obj/Debug/netcoreapp3.1/L-001_BasicCalendar.csproj.CoreCompileInputs.cache
+/Users/takahiro_biz/Documents/works/000_自社事業/004_School/Answer/L-001_BasicCalendar/obj/Debug/netcoreapp3.1/L-001_BasicCalendar.dll
+/Users/takahiro_biz/Documents/works/000_自社事業/004_School/Answer/L-001_BasicCalendar/obj/Debug/netcoreapp3.1/L-001_BasicCalendar.pdb
+/Users/takahiro_biz/Documents/works/000_自社事業/004_School/Answer/L-001_BasicCalendar/obj/Debug/netcoreapp3.1/L-001_BasicCalendar.genruntimeconfig.cache

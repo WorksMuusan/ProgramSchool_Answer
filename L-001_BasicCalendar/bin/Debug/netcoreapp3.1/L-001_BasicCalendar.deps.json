@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "L-001_BasicCalendar/1.0.0": {
+        "runtime": {
+          "L-001_BasicCalendar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L-001_BasicCalendar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
